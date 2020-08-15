@@ -8,7 +8,7 @@ import '../styles/card.css'
 import '../styles/mapku.css'
 import '../styles/table.css'
 import '../styles/infoBox.css'
-import "leaflet/dist/leaflet.css";
+// import "leaflet/dist/leaflet.css";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';

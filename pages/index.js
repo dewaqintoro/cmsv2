@@ -49,13 +49,7 @@ import Link from 'next/link'
 const { Header, Content, Footer, Sider } = Layout;
 
 
-
-
-import SideCompDew from './components/SideCompDew';
-import Kasus from './kasus';
 import LoginDew from './login';
-import SideSatu from './coba/sideSatu';
-import SideDua from './coba/SideDua';
 
  
 
@@ -91,9 +85,6 @@ class index extends Component {
 
     <div className="loginku">
       <LoginDew/>
-      {/* <SideSatu/> */}
-      {/* <SideDua/> */}
-      {/* <login/> */}
     </div>
     
     )
