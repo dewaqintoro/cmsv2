@@ -1,16 +1,3 @@
-// import React, { Component } from 'react'
-
-// export default class admin extends Component {
-//   render() {
-//     return (
-//       <div>
-//         <h1>ini admin</h1>
-//       </div>
-//     )
-//   }
-// }
-
-
 import React, { Component } from 'react'
 
 import { Layout, Menu } from 'antd';
